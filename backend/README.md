@@ -3,6 +3,7 @@
 The Parts Unlimited backend is Node web app written with [Express](https://expressjs.com/)
 
 ## Getting started
+Duplicate the `.env.example` file and rename it to `.env` and update it with the values corresponding to your local environment
 
 To start the app use: `yarn dev` from the backend directory.
 
