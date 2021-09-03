@@ -1,7 +1,7 @@
 # Welcome to the Parts Unlimited repo
 
 # Setup
-To install all required dependencies, run `yarn setup`
+To install all required dependencies, run `yarn` in main folder. Then `yarn setup` to install dependencies required for backend and frontend.
 
 Start your local mongodb instance and make sure to create a `.env` file in `/backend` as per `/backend/.env.example`.
 
